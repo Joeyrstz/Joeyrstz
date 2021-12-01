@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Joey Stoetzel alias @Joeyrstz
-- 👀 I’m interested in .NET, C# and Web-Development with React or Angular. I prefer TypeScript over JavaScript ;-)
+- 👀 I’m interested in .NET, C# and Web-Development with Blazor, React or Angular. I prefer TypeScript over JavaScript ;-)
 - 🌱 I’m currently learning React with TypeScript, building an eCommerce-system.
 - 💞️ I’m looking to collaborate on literally anything where I can learn.
 - 📫 Reach to me over Discord EmbraceMyDuck#1195 or LinkedIn/Xing.
